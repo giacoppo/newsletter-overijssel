@@ -1,5 +1,4 @@
-# Foundation for Emails Template
-# for Gemeente Overijssel
+# Foundation for Emails Template for Gemeente Overijssel
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
 
